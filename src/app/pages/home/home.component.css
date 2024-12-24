@@ -1,0 +1,54 @@
+.hero {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding: 3rem;
+	background-color: #f4f4f4;
+  }
+  
+  .hero-content h1 {
+	font-size: 2.5rem;
+	margin-bottom: 1rem;
+  }
+  
+  .hero-content p {
+	font-size: 1.2rem;
+	margin-bottom: 1.5rem;
+  }
+  
+  .hero-buttons button {
+	margin: 0 0.5rem;
+	padding: 0.8rem 1.5rem;
+	font-size: 1rem;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+  }
+  
+  .btn-primary {
+	background-color: #007bff;
+	color: white;
+  }
+  
+  .btn-secondary {
+	background-color: #28a745;
+	color: white;
+  }
+  
+  .stats {
+	display: flex;
+	justify-content: space-around;
+	padding: 2rem;
+	background-color: #fff;
+  }
+  
+  .stat {
+	text-align: center;
+  }
+  
+  .stat h2 {
+	font-size: 2rem;
+	margin-bottom: 0.5rem;
+  }
+  
